@@ -1,6 +1,6 @@
 # Jenkins-HA-Setup-on-AWS
 
-# For this Jenkins HA project, I have used the following DevOps Tools :
+<h2>For this Jenkins HA project, I have used the following DevOps Tools : </h2> 
 
 1)    GitHub: Repository to store IaC
 2)    Packer: To build Jenkins Controller and agent AMIs
